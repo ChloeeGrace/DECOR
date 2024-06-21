@@ -1,1 +1,1 @@
-You need to download the weights for resnet-50 first and then rename it resnet50-pre.pth
+You need to download the official weights for resnet50 and then rename it resnet50-pre.pth
