@@ -5,6 +5,7 @@ DECOR: Dynamic Decoupling and Multi-Objective Optimization for Long-tailed Remot
 The file self_con.txt comprises data from ImageNet. The contents of self_con.txt are the path to the Imagenet data.
 For example: 
 /data/Datasets/Imagenet/train_img/n04548362_10933.JPEG
+
 /data/Datasets/Imagenet/train_img/n02364673_632.JPEG
 /data/Datasets/Imagenet/train_img/n02033041_2659.JPEG
 /data/Datasets/Imagenet/train_img/n03085013_30335.JPEG
