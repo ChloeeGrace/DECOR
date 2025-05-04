@@ -15,9 +15,8 @@ Jianlin Xie<sup>1</sup>, Guanqun Wang<sup>2</sup>, Yin Zhuang<sup>1</sup>, Can L
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🔥 Updates</h2>
 
 ```
-- **May 5th, 2025**
+- **May 5th, 2025**: The DECOR repo has been further optimized.
 ```
-: The DECOR repo has been further optimized.
 
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">
 🧾Getting Started
