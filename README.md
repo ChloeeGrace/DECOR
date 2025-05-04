@@ -23,7 +23,7 @@ Jianlin Xie<sup>1</sup>, Guanqun Wang<sup>2</sup>, Yin Zhuang<sup>1</sup>, Can L
 DECOR is developed based on python==3.9.15 torch==1.11.0 and torchvision==0.12.0. Check more details in requirements.
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
-Clone Project
+i. Clone Project
 </h3>
 
 ```
@@ -31,7 +31,7 @@ git clone https://github.com/ChloeeGrace/DECOR.git
 ```
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
-Install
+ii. Install
 </h3>
 
 ```
