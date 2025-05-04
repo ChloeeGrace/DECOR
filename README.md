@@ -9,7 +9,7 @@ Jianlin Xie<sup>1</sup>, Guanqun Wang<sup>2</sup>, Yin Zhuang<sup>1</sup>, Can L
 </p>
 
 <p align="center">
-<sup>1</sup> The University of Tokyo, <sup>2</sup> RIKEN AIP, <sup>3</sup> ETH Zurich, <sup>4</sup> Microsoft Research Asia
+<sup>1</sup> Beijing Institute of Technology, <sup>2</sup> Peking University
 </p>
 
 
