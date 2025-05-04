@@ -1,6 +1,6 @@
 <h1 align="center">☀️DECOR☀️</h1>
 
-<h2 align="center" style="font-family: 'Times New Roman'; font-size: 20px;">
+<h2 align="center" style="font-family: 'Times New Roman'; font-size: 15px;">
 DECOR: Dynamic Decoupling and Multi-Objective Optimization for Long-tailed Remote Sensing Image Classification
 </h2>
 
