@@ -23,6 +23,7 @@ Getting Started
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
 Clone Project
 </h3>
+
 > git clone https://github.com/ChloeeGrace/DECOR.git
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
