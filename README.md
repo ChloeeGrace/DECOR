@@ -71,7 +71,7 @@ The file **self_con.txt** comprises data from ImageNet. The contents of self_con
 bash training.sh
 ```
 
-<h2 style="font-family: 'Times New Roman'; font-size: 15px;">🔔Inference</h2>
+<h2 style="font-family: 'Times New Roman'; font-size: 15px;">🤖Inference</h2>
 
 ```
 bash Inference.sh
