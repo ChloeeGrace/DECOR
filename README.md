@@ -55,7 +55,7 @@ pip install -r requirements.txt
 iii. Download pretrain backbone weight
 </h3>
 
-Download the pre-trained ResNet-50(https://download.pytorch.org/models/resnet50-19c8e357.pth) weights, rename the file to resnet50-pre.pth, and then modify the corresponding paths.
+Download the pre-trained [ResNet-50](https://download.pytorch.org/models/resnet50-19c8e357.pth) weights, rename the file to resnet50-pre.pth, and then modify the corresponding paths.
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
 2. Data Preparation
