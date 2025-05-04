@@ -60,4 +60,6 @@ The file **self_con.txt** comprises data from ImageNet. The contents of self_con
 
 In light of everyone's interest in long-tailed distribution, we will soon release a more detailed and comprehensive version to support your research.
 
-<h2 style="font-family: 'Times New Roman'; font-size: 15px;">📢Notice</h2>
+<h2 style="font-family: 'Times New Roman'; font-size: 15px;">📢Contact</h2>
+
+In light of everyone's interest in long-tailed distribution, we will soon release a more detailed and comprehensive version to support your research.
