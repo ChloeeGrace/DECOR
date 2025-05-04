@@ -20,6 +20,12 @@ Getting Started
 1. Installation
 </h3>
 
+<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
+DECOR is developed based on torch==1.11.0 mmyolo==0.6.0 and mmdetection==3.0.0. Check more details about requirements
+</h3>
+
+> pip install -r requirements.txt
+
 ## self_con.txt
 The file self_con.txt comprises data from ImageNet. The contents of self_con.txt are the path to the Imagenet data.
 For example:  
