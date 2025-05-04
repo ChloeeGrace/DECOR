@@ -85,16 +85,16 @@ bash Inference.sh
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🔗Citation</h2>
 
 ```
-@ARTICLE{10443928,
-  author={Xie, Jianlin and Wang, Guanqun and Zhuang, Yin and Li, Can and Zhang, Tong and Chen, He and Chen, Liang and Zhang, Shanghang},
+@ARTICLE{10976651,
+  author={Xie, Jianlin and Wang, Guanqun and Zhang, Tong and Sun, Yikang and Chen, He and Zhuang, Yin and Li, Jun},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={DECOR: Dynamic Decoupling and Multiobjective Optimization for Long-Tailed Remote Sensing Image Classification}, 
-  year={2024},
-  volume={62},
+  title={LLaMA-Unidetector: A LLaMA-Based Universal Framework for Open-Vocabulary Object Detection in Remote Sensing Imagery}, 
+  year={2025},
+  volume={},
   number={},
-  pages={1-17},
-  keywords={Feature extraction;Tail;Remote sensing;Training;Task analysis;Representation learning;Optimization;Decouple learning;long tail;remote sensing scene classification},
-  doi={10.1109/TGRS.2024.3369178}}
+  pages={1-1},
+  keywords={Object detection;Remote sensing;Training;Detectors;Visualization;Feature extraction;Location awareness;Semantics;Data mining;Optimization;open-vocabulary;remote sensing object detection;decoupled learning},
+  doi={10.1109/TGRS.2025.3564332}}
 ```
 
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🔔Notice</h2>
