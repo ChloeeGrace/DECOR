@@ -5,8 +5,7 @@ DECOR: Dynamic Decoupling and Multi-Objective Optimization for Long-tailed Remot
 </h3>
 
 <p align="center">
-Jianlin Xie<sup>1</sup>, Guanqun Wang<sup>2</sup>, Yin Zhuang<sup>1</sup>, Can Li<sup>1</sup>, Tong Zhang<sup>1</sup>, He Chen<sup>1</sup><br>
-Liang Chen<sup>1</sup>, Shanghang Zhang<sup>2</sup><sup>*</sup>
+Jianlin Xie<sup>1</sup>, Guanqun Wang<sup>2</sup>, Yin Zhuang<sup>1</sup>, Can Li<sup>1</sup>, Tong Zhang<sup>1</sup>, He Chen<sup>1</sup>, Liang Chen<sup>1</sup>, Shanghang Zhang<sup>2</sup><sup>*</sup>
 </p>
 
 <p align="center">
