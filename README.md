@@ -62,4 +62,4 @@ In light of everyone's interest in long-tailed distribution, we will soon releas
 
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">📢Contact</h2>
 
-In light of everyone's interest in long-tailed distribution, we will soon release a more detailed and comprehensive version to support your research.
+If you have any questions, suggestions or spot a bug, feel free to get in touch. We would also love to see your contributions. Just open a pull request if you'd like to help out. Thanks so much for your support!
