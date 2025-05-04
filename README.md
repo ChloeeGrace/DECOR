@@ -65,7 +65,7 @@ The file **self_con.txt** comprises data from ImageNet. The contents of self_con
 > /data/Datasets/Imagenet/train_img/n04532106_1429.JPEG  
 > /data/Datasets/Imagenet/train_img/n02788148_40948.JPEG  
 
-<h2 style="font-family: 'Times New Roman'; font-size: 15px;">🔔Trainging</h2>
+<h2 style="font-family: 'Times New Roman'; font-size: 15px;">🏋️‍♂️Training</h2>
 
 ```
 bash training.sh
