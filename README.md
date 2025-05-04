@@ -4,6 +4,16 @@
 DECOR: Dynamic Decoupling and Multi-Objective Optimization for Long-tailed Remote Sensing Image Classification
 </h3>
 
+<p align="center">
+Hongruixuan Chen<sup>1,2</sup>, Jian Song<sup>1,2</sup>, Olivier Dietrich<sup>3</sup>, Clifford Broni-Bediako<sup>2</sup>, Weihao Xuan<sup>1,2</sup>, Junjue Wang<sup>1</sup><br>
+Xinlei Shao<sup>1</sup>, Yimin Wei<sup>1,2</sup>, Junshi Xia<sup>3</sup>, Cuiling Lan<sup>4</sup>, Konrad Schindler<sup>3</sup>, Naoto Yokoya<sup>1,2</sup><sup>*</sup>
+</p>
+
+<p align="center">
+<sup>1</sup> The University of Tokyo, <sup>2</sup> RIKEN AIP, <sup>3</sup> ETH Zurich, <sup>4</sup> Microsoft Research Asia
+</p>
+
+
 ## self_con.txt
 The file self_con.txt comprises data from ImageNet. The contents of self_con.txt are the path to the Imagenet data.
 For example:  
