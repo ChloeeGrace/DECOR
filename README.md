@@ -25,7 +25,7 @@ Clone Project
 </h3>
 
 
-```bash
+```
 git clone https://github.com/ChloeeGrace/DECOR.git
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
