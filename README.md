@@ -18,6 +18,9 @@ Jianlin Xie<sup>1</sup>, Guanqun Wang<sup>2</sup>, Yin Zhuang<sup>1</sup>, Can L
 
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🎯Overview & Contribution</h2>
 
+![Example Image](img/method.png)
+
+
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">
 🧾Getting Started
 </h2>
