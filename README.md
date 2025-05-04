@@ -46,7 +46,7 @@ pip install -r requirements.txt
 2. Data Preparation
 </h3>
 
-## self_con.txt
+**self_con.txt**
 The file self_con.txt comprises data from ImageNet. The contents of self_con.txt are the path to the Imagenet data.
 For example:  
 /data/Datasets/Imagenet/train_img/n04548362_10933.JPEG  
