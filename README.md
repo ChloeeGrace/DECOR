@@ -76,6 +76,20 @@ bash training.sh
 ```
 bash Inference.sh
 ```
+<h2 style="font-family: 'Times New Roman'; font-size: 15px;">🔗Citation</h2>
+
+```
+@ARTICLE{10443928,
+  author={Xie, Jianlin and Wang, Guanqun and Zhuang, Yin and Li, Can and Zhang, Tong and Chen, He and Chen, Liang and Zhang, Shanghang},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={DECOR: Dynamic Decoupling and Multiobjective Optimization for Long-Tailed Remote Sensing Image Classification}, 
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-17},
+  keywords={Feature extraction;Tail;Remote sensing;Training;Task analysis;Representation learning;Optimization;Decouple learning;long tail;remote sensing scene classification},
+  doi={10.1109/TGRS.2024.3369178}}
+```
 
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🔔Notice</h2>
 
