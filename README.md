@@ -24,7 +24,9 @@ Getting Started
 Clone Project
 </h3>
 
-> git clone https://github.com/ChloeeGrace/DECOR.git
+
+```bash
+git clone https://github.com/ChloeeGrace/DECOR.git
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
 DECOR is developed based on torch==1.11.0 mmyolo==0.6.0 and mmdetection==3.0.0. Check more details about requirements
