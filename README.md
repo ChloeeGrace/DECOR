@@ -1,4 +1,5 @@
-# <center> DECOR </center>
+<center><h1>DECOR</h1></center>
+
 ## <center><font face="Times New Roman" size=5>DECOR: Dynamic Decoupling and Multi-Objective Optimization for Long-tailed Remote Sensing Image Classification</font></center>
 
 ## self_con.txt
