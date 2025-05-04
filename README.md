@@ -12,6 +12,8 @@ Jianlin Xie<sup>1</sup>, Guanqun Wang<sup>2</sup>, Yin Zhuang<sup>1</sup>, Can L
 <sup>1</sup> Beijing Institute of Technology, <sup>2</sup> Peking University
 </p>
 
+<h2 align="center">🔥 Updates</h2>
+
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">
 🧾Getting Started
 </h2>
