@@ -19,11 +19,11 @@ Jianlin Xie<sup>1</sup>, Guanqun Wang<sup>2</sup><sup>*</sup>, Yin Zhuang<sup>1<
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🎯Overview & Contribution</h2>
 
 ![Example Image](img/method.png)
-
-1) A DD **(dynamic decoupling)** framework is proposed that allows the model to make a better representation of learning and classifier learning, and also ensure the compatibility of the feature extractor with the classifier.
-2) MOOF **(multiobjective optimization framework)** is proposed to make a better representation of learning including supervised contrastive learning with LFC and self-supervised contrastive learning. LFCs enable a more explicit connection between the feature extractor and the classifier. Self-supervised contrastive learning provides the model with contextual knowledge about the world.
-3) A LOFT **(lightweight optimization fine-tuning)** is employed for the goal of maximum performance with minimal intervention.
-4) A high-spatial-resolution remote sensing image long-tailed dataset containing 50 classes of objects has been constructed by ourselves and will be made publicly available to other researchers. The self-built BIT-AFGR50 is available at https://github.com/wgqqgw/BIT-KTYG-AFGR.
+Our main contributions are:
+- A DD **(dynamic decoupling)** framework is proposed that allows the model to make a better representation of learning and classifier learning, and also ensure the compatibility of the feature extractor with the classifier.
+- MOOF **(multiobjective optimization framework)** is proposed to make a better representation of learning including supervised contrastive learning with LFC and self-supervised contrastive learning. LFCs enable a more explicit connection between the feature extractor and the classifier. Self-supervised contrastive learning provides the model with contextual knowledge about the world.
+- A LOFT **(lightweight optimization fine-tuning)** is employed for the goal of maximum performance with minimal intervention.
+- A high-spatial-resolution remote sensing image long-tailed dataset containing 50 classes of objects has been constructed by ourselves and will be made publicly available to other researchers. The self-built BIT-AFGR50 is available at https://github.com/wgqqgw/BIT-KTYG-AFGR.
 
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">
 🧾Getting Started
