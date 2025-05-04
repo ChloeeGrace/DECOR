@@ -52,6 +52,12 @@ pip install -r requirements.txt
 ```
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
+iii. Download pretrain backbone weight
+</h3>
+
+Download the pre-trained ResNet-50 weights, rename the file to resnet50-pre.pth, and then modify the corresponding paths.
+
+<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
 2. Data Preparation
 </h3>
 
