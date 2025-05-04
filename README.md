@@ -12,6 +12,9 @@ Jianlin Xie<sup>1</sup>, Guanqun Wang<sup>2</sup>, Yin Zhuang<sup>1</sup>, Can L
 <sup>1</sup> Beijing Institute of Technology, <sup>2</sup> Peking University
 </p>
 
+<h2 align="center" style="font-family: 'Times New Roman'; font-size: 15px;">
+Getting Started
+</h2>
 
 ## self_con.txt
 The file self_con.txt comprises data from ImageNet. The contents of self_con.txt are the path to the Imagenet data.
