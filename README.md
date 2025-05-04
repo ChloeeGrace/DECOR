@@ -16,6 +16,10 @@ Jianlin Xie<sup>1</sup>, Guanqun Wang<sup>2</sup>, Yin Zhuang<sup>1</sup>, Can L
 Getting Started
 </h2>
 
+<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
+1. Installation
+</h3>
+
 ## self_con.txt
 The file self_con.txt comprises data from ImageNet. The contents of self_con.txt are the path to the Imagenet data.
 For example:  
