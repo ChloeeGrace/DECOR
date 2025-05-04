@@ -1,5 +1,4 @@
-# DECOR
-DECOR: Dynamic Decoupling and Multi-Objective Optimization for Long-tailed Remote Sensing Image Classification
+## <center><font face="Times New Roman" size=5>DECOR: Dynamic Decoupling and Multi-Objective Optimization for Long-tailed Remote Sensing Image Classification</font></center>
 
 ## self_con.txt
 The file self_con.txt comprises data from ImageNet. The contents of self_con.txt are the path to the Imagenet data.
