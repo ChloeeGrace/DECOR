@@ -1,4 +1,5 @@
-<center><font face="Times New Roman" size=5>DECOR</font></center>
+<h1 align="center">DECOR</h1>
+
 
 ## <center><font face="Times New Roman" size=5>DECOR: Dynamic Decoupling and Multi-Objective Optimization for Long-tailed Remote Sensing Image Classification</font></center>
 
