@@ -1,6 +1,8 @@
 <h1 align="center">☀️DECOR☀️</h1>
 
-## <center><font face="Times New Roman" size=5>DECOR: Dynamic Decoupling and Multi-Objective Optimization for Long-tailed Remote Sensing Image Classification</font></center>
+<h2 align="center" style="font-family: 'Times New Roman'; font-size: 20px;">
+DECOR: Dynamic Decoupling and Multi-Objective Optimization for Long-tailed Remote Sensing Image Classification
+</h2>
 
 ## self_con.txt
 The file self_con.txt comprises data from ImageNet. The contents of self_con.txt are the path to the Imagenet data.
