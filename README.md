@@ -20,9 +20,7 @@ Jianlin Xie<sup>1</sup>, Guanqun Wang<sup>2</sup>, Yin Zhuang<sup>1</sup>, Can L
 1. Installation
 </h3>
 
-<h3 style="font-family: 'Times New Roman'; font-size: 15px;">
 DECOR is developed based on torch==1.11.0 mmyolo==0.6.0 and mmdetection==3.0.0. Check more details about requirements
-</h3>
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
 Clone Project
