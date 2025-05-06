@@ -34,7 +34,7 @@ Our main contributions are:
 1. Installation
 </h3>
 
-DECOR is developed based on python==3.8.18 torch==1.8.0+cu111 and torchvision==0.9.1+cu111. Check more details in requirements.
+DECOR is developed based on python==3.8.18 torch==1.8.0+cu111 and torchvision==0.9.1+cu111. Check more details in requirements.txt.
 
 <h3 style="font-family: 'Times New Roman'; font-size: 15px;">
 i. Clone Project
