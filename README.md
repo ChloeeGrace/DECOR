@@ -95,7 +95,7 @@ python main_train.py
 
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🔔Notice</h2>
 
-In light of everyone's interest in long-tailed distribution, we will soon release a more detailed and comprehensive version to support your research.
+In view of everyone's interest in the long-tail distribution, we will soon release a more detailed and comprehensive version to support your research. In this detailed version, we will further integrate the Long-tailed NWPU-RESISC45 and Long-tailed AID datasets and their corresponding different parameters into different sh files, enabling them to run with one click without modifying the parameters.
 
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">📢Contact</h2>
 
