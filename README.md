@@ -62,7 +62,7 @@ Download the pre-trained [ResNet-50](https://download.pytorch.org/models/resnet5
 2. Data Preparation
 </h3>
 
-The file '[**self_con.txt**](img_list_txt/self_con.txt) comprises data from ImageNet. The contents of self_con.txt are the path to the Imagenet data.
+The file [**self_con.txt**](img_list_txt/self_con.txt) comprises data from ImageNet. The contents of self_con.txt are the path to the Imagenet data.
 
 **For example:**  
 > /data/Datasets/Imagenet/train_img/n04548362_10933.JPEG  
